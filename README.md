@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack software development<br>👯 I’m looking to collaborate with other devs to build functional, beautiful projects<br>🤖 I am very curious to learn about A.I and also bitcoin/cryptography <br>💬 Ask me any questions!<br>🔗 Find me on: linkedin.com/in/softwaredev-danny<br>📩 Email me: nguyenduongpa@gmail.com<br>💼 My portfolio: dannydev.info<br>⚡ Fun fact: I'm a Jiujitsu competitor 🥋 😉
+🔭 I'm a recent graduate of CodingDojo 3-stack Software Development Bootcamp 🎓<br>👯 I’m looking to collaborate with other devs to build functional, beautiful projects<br>🤖 I am very curious to learn about A.I and also bitcoin/cryptography <br>💬 Ask me any questions!<br>🔗 Find me on: linkedin.com/in/softwaredev-danny<br>📩 Email me: nguyenduongpa@gmail.com<br>💼 Checkout my project porttolio: dannydev.info<br>⚡ Fun fact: I'm a Jiujitsu competitor 🥋 😉
 
 
 ## 🌐 Socials:
