@@ -1,5 +1,5 @@
 <h1>Hi, I'm Danny 🙂</h1>
-🔭 I am a full stack dev, proud graduate of CodingDojo's 3-stack Software Development Bootcamp 🎓<br><br>💻 Open for employment, check out my portfolio, you won't regret it! <br><br>💬 Ask me any questions!<br><br> 📚 Currently learning: Tailwind<br><br> 🔗 Find me on: www.linkedin.com/in/softwaredev-danny<br><br>💼 Project Portfolio/CV: http://dannydev.info<br><br>📩 Email: nguyenduongpa@gmail.com<br><br>⚡ Fun fact: I am an avid Jiujitsu competitor 🥋😉
+🔭 I am a full stack dev, proud graduate of CodingDojo's 3-stack Software Development Bootcamp 🎓<br><br>💻 Open for employment, check out my portfolio, you won't regret it! <br><br>💬 Ask me any questions!<br><br> 📚 Currently learning: Wordpress<br><br> 🔗 Find me on: www.linkedin.com/in/softwaredev-danny<br><br>💼 Project Portfolio/CV: http://dannydev.info<br><br>📩 Email: nguyenduongpa@gmail.com<br><br>⚡ Fun fact: I am an avid Jiujitsu competitor 🥋😉
 
 
 ## 🌐 Socials:
