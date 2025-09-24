@@ -1,5 +1,5 @@
 <h1>Hi, I'm Danny 😎</h1>
-🔭 Lifelong learner, passionate about software development and machine learning 🧠 🔗 Find me on: https://www.linkedin.com/in/softwaredev-nguyen/ <br><br>💼 Portfolio Website/CV: https://dannydev.info<br><br>📩 Email: nguyenduongpa@gmail.com<br><br>⚡ Fun fact: I am an avid Jiujitsu competitor 🥋😉
+🔭 Lifelong learner, passionate about software development and machine learning 🧠 <br><br>🔗 Find me on: https://www.linkedin.com/in/softwaredev-nguyen/ <br><br>💼 Portfolio Website/CV: https://dannydev.info<br><br>📩 Email: nguyenduongpa@gmail.com<br><br>⚡ Fun fact: I am an avid Jiujitsu competitor 🥋😉
 
 
 ## 🌐 Socials:
