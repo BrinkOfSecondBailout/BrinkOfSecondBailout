@@ -1,4 +1,4 @@
-<h1>Hi, I'm Danny 😎</h1>
+<h1>Hi, I'm Danny</h1>
 Lifelong learner, passionate about software development.<br><br>Portfolio Website/CV: https://dannydev.info<br><br>Email: nguyenduongpa@gmail.com<br><br>
 
 
